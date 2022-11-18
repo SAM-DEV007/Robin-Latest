@@ -1,0 +1,10 @@
+sounddevice
+soundfile
+librosa
+google
+wave
+pyttsx3
+wolframalpha
+vosk
+requests-html
+pyqt6
