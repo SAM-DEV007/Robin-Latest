@@ -1,5 +1,7 @@
 # Robin-Latest
 
+[MAY NOT WORK AS INTENDED. THE .UI FOR ROBIN_MAIN.UI WAS ACCIDENTALLY DELETED, SO THE APP MAY THROW AN ERROR. A FEW ADJUSTMENTS IN THE CODE MAY MAKE IT WORK. FOR ERROR, PLEASE CHECK THE LOGS FOLDER]
+
 It will be the last version of Robin AI Assistant. 
 
 The Audio Model file is too big to upload here. So, it's in the link below:
