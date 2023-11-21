@@ -204,7 +204,7 @@ files = {
 }
 
 #API Keys
-appId = '6X7783-KWW22XQR9Q'
+appId = ':)'
 
 #Global Variables
 lab_load, connect, start, end, main_window, model, model_success = None, None, None, None, None, None, None
